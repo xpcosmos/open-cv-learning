@@ -1,0 +1,5 @@
+open-cv-learning/config.py
+.venv/*
+./environment.yml
+__pycache__/*
+commit_template.txt
